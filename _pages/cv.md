@@ -28,5 +28,5 @@ Teaching
   {% endfor %}</ul>
   
 Service and leadership
-Session Chair and volunteer of ICRA2021.
-Reviewer of Journal of Intelligent & Robotic Systems.
+* Session Chair and volunteer of ICRA2021.
+* Reviewer of Journal of Intelligent & Robotic Systems.
