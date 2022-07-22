@@ -86,10 +86,10 @@ author:
   bio              : "Ph.D. candidate at The Chinese University of Hong Kong"
   location         : "Hong Kong SAR"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=bSiQwcsAAAAJ&hl=en"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.pl/citations?user=bSiQwcsAAAAJ&hl=pl"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Han-Ma-9" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
