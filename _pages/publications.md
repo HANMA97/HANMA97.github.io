@@ -49,8 +49,8 @@ X Sun, __H Ma__, W Zuo, M Liu
 2019 IEEE Access
 
 ### A Novel Point Cloud Compression Algorithm Based on Clustering ([paper](https://ieeexplore.ieee.org/abstract/document/8648155?casa_token=Smw3eAlck5cAAAAA:WVGy7K7zPe7iOo1ZQCaMfkzGPNZJiCcLuQQ-gSn-1UtjGcgJXRGp14goWv0U0yXguhIukM0ugyM))
-ML Xuebin Sun, Han Ma, Yuxiang Sun
-IEEE ROBOTICS AND AUTOMATION LETTERS 4 (2), 8
+X Sun, __H Ma__, Y Sun, M Liu
+2019 IEEE ROBOTICS AND AUTOMATION LETTERS
 
 ## Conference Papers
 
