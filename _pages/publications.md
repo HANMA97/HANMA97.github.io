@@ -8,9 +8,65 @@ author_profile: true
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
-
-{% include base_path %}
-
+<!-- 
+{% include base_path %} -->
+<!-- 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->
+
+Preprint
+=================
+### BiAIT*: Symmetrical Bidirectional Optimal Path Planning with Adaptive Heuristic ([paper](https://arxiv.org/abs/2205.06940))
+* C Li, _H Ma_, P Xu, J Wang, MQH Meng
+
+### NR-RRT: Neural Risk-Aware Near-Optimal Path Planning in Uncertain Nonconvex Environments ([paper](https://arxiv.org/abs/2205.06951))
+* F Meng, L Chen, _H Ma_, J Wang, MQH Meng
+
+### Relevant Region Sampling Strategy with Adaptive Heuristic Estimation for Asymptotically Optimal Motion Planning ([paper](https://arxiv.org/abs/2111.00383))
+* C Li, F Meng, _H Ma_, J Wang, MQH Meng
+
+Journal Papers
+=================
+
+### Enhance Connectivity of Promising Regions for Sampling-based Path Planning ([paper](https://ieeexplore.ieee.org/document/9834265))
+* _H Ma_, C Li, J Liu, J Wang, MQH Meng
+2022 IEEE Transactions on Automation Science and Engineering
+
+### Bi-Risk-RRT Based Efficient Motion Planning for Mobile Robots ([paper](https://ieeexplore.ieee.org/abstract/document/9718167/))
+* _H Ma_, F Meng, C Ye, J Wang, MQH Meng
+2022 IEEE Transactions on Intelligent Vehicles
+
+### A survey of learning‐based robot motion planning ([paper](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/csy2.12020))
+* J Wang, T Zhang, N Ma, Z Li, _H Ma_, F Meng, MQH Meng
+2021 IET Cyber‐Systems and Robotics
+
+### Efficient autonomous exploration with incrementally built topological map in 3-D environments ([paper](https://ieeexplore.ieee.org/abstract/document/9115087))
+* C Wang, _H Ma_, W Chen, L Liu, MQH Meng
+2020 IEEE Transactions on Instrumentation and Measurement
+
+### Perceptual-based HEVC intra coding optimization using deep convolution networks ([paper](https://ieeexplore.ieee.org/document/8705300))
+* X Sun, _H Ma_, W Zuo, M Liu
+2019 IEEE Access
+
+Conference Papers
+=================
+### A Nonuniform Sampling Strategy for Path Planning Using Heuristic-based Certificate Set ([paper](https://ieeexplore.ieee.org/abstract/document/9739494))
+H Ma, J Liu, F Meng, J Pan, J Wang, MQH Meng
+2021 IEEE International Conference on Robotics and Biomimetics (ROBIO)
+
+### Multi-view global 2d-3d registration based on branch and bound algorithm ([paper](https://ieeexplore.ieee.org/document/8961379))
+J Pan, Z Min, A Zhang, H Ma, MQH Meng
+2019 IEEE International Conference on Robotics and Biomimetics (ROBIO)
+
+### A monocular target pose estimation system based on an infrared camera ([paper](https://ieeexplore.ieee.org/document/8961755))
+J Lin, H Ma, J Cheng, P Xu, MQH Meng
+2019 IEEE International Conference on Robotics and Biomimetics (ROBIO)
+
+### Using dp towards a shortest path problem-related application ([paper](https://ieeexplore.ieee.org/document/8793603))
+J Jiao, R Fan, H Ma, M Liu
+2019 International Conference on Robotics and Automation (ICRA)
+
+### Multiple lane detection algorithm based on optimised dense disparity map estimation ([paper](https://ieeexplore.ieee.org/document/8577122))
+H Ma, Y Ma, J Jiao, MUM Bhutta, MJ Bocus, L Wang, M Liu, R Fan
+2018 IEEE International Conference on Imaging Systems and Techniques (IST)
