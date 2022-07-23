@@ -58,6 +58,10 @@ X Sun, __H Ma__, Y Sun, M Liu
 __H Ma__, J Liu, F Meng, J Pan, J Wang, MQH Meng  
 2021 IEEE International Conference on Robotics and Biomimetics (ROBIO)
 
+### Globally Learnable Point Set Registration Between 3D CT and Multi-view 2D X-ray Images of Hip Phantom
+J Pan, Z Min, A Zhang, __H Ma__, MQH Meng  
+2021 IEEE International Conference on Robotics and Biomimetics (ROBIO)
+
 ### Multi-view global 2d-3d registration based on branch and bound algorithm ([paper](https://ieeexplore.ieee.org/document/8961379))
 J Pan, Z Min, A Zhang, __H Ma__, MQH Meng  
 2019 IEEE International Conference on Robotics and Biomimetics (ROBIO)
