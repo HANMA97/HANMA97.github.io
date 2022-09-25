@@ -16,6 +16,10 @@ Education
   * __Minor__: Computer Technology and Application, the Department of Computer Science and Technology
 * Ph.D. in the Department of Electronic Engineering, The Chinese University of Hong Kong, Hong Kong SAR, 2023(expected)
 
+Intern
+======
+Autonomous Driving System (ADS), Navigation and Positioning Development Department, Huawei (2022)
+
 Teaching
 ======
 * __Teaching Assistant__: CUHK ENGG1130E, Multivariable Calculus for Engineers, 2021-2022 term 2
