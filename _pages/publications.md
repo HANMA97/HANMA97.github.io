@@ -54,26 +54,30 @@ X Sun, __H Ma__, Y Sun, M Liu
 
 ## Conference Papers
 ------
+### Discrepancy-Based Active Learning for Weakly Supervised Bleeding Segmentation in Wireless Capsule Endoscopy Images ([paper](https://link.springer.com/chapter/10.1007/978-3-031-16452-1_3))
+F Bai, X Xing, Y Shen, __H Ma__, MQH Meng
+2022 International Conference on Medical Image Computing and Computer-Assisted Intervention (MICAI 2022)
+
 ### A Nonuniform Sampling Strategy for Path Planning Using Heuristic-based Certificate Set ([paper](https://ieeexplore.ieee.org/abstract/document/9739494))
 __H Ma__, J Liu, F Meng, J Pan, J Wang, MQH Meng  
-2021 IEEE International Conference on Robotics and Biomimetics (ROBIO)
+2021 IEEE International Conference on Robotics and Biomimetics (ROBIO 2021)
 
 ### Globally Learnable Point Set Registration Between 3D CT and Multi-view 2D X-ray Images of Hip Phantom
 J Pan, Z Min, A Zhang, __H Ma__, MQH Meng  
-2021 IEEE International Conference on Robotics and Biomimetics (ROBIO)
+2021 IEEE International Conference on Robotics and Biomimetics (ROBIO 2021)
 
 ### Multi-view global 2d-3d registration based on branch and bound algorithm ([paper](https://ieeexplore.ieee.org/document/8961379))
 J Pan, Z Min, A Zhang, __H Ma__, MQH Meng  
-2019 IEEE International Conference on Robotics and Biomimetics (ROBIO)
+2019 IEEE International Conference on Robotics and Biomimetics (ROBIO 2019)
 
 ### A monocular target pose estimation system based on an infrared camera ([paper](https://ieeexplore.ieee.org/document/8961755))
 J Lin<sup>+</sup>, __H Ma__<sup>+</sup>, J Cheng, P Xu, MQH Meng  
-2019 IEEE International Conference on Robotics and Biomimetics (ROBIO)
+2019 IEEE International Conference on Robotics and Biomimetics (ROBIO 2019)
 
 ### Using dp towards a shortest path problem-related application ([paper](https://ieeexplore.ieee.org/document/8793603))
 J Jiao, R Fan, __H Ma__, M Liu  
-2019 International Conference on Robotics and Automation (ICRA)
+2019 International Conference on Robotics and Automation (ICRA 2019)
 
 ### Multiple lane detection algorithm based on optimised dense disparity map estimation ([paper](https://ieeexplore.ieee.org/document/8577122))
 __H Ma__, Y Ma, J Jiao, MUM Bhutta, MJ Bocus, L Wang, M Liu, R Fan  
-2018 IEEE International Conference on Imaging Systems and Techniques (IST)
+2018 IEEE International Conference on Imaging Systems and Techniques (IST 2018)
