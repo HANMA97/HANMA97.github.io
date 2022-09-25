@@ -32,6 +32,7 @@ Teaching
   
 Service
 ======
-* Session chair and volunteer of ICRA2021.
+* Reviewer of IROS2022
+* Session chair of ICRA2021.
 * Reviewer of Journal of Intelligent & Robotic Systems.
 * Reviewer of IET Cyber-Systems and Robotics.
