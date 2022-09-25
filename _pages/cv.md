@@ -30,7 +30,7 @@ Teaching
 * __Teaching Assistant__: CUHK ELEG4701, Intelligent Interactive Robot Practice, 2019-2020 term 1
 
   
-Service
+Services
 ======
 * Reviewer of IROS2022
 * Session chair of ICRA2021.
