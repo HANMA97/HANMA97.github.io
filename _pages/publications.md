@@ -55,7 +55,7 @@ X Sun, __H Ma__, Y Sun, M Liu
 ## Conference Papers
 ------
 ### Discrepancy-Based Active Learning for Weakly Supervised Bleeding Segmentation in Wireless Capsule Endoscopy Images ([paper](https://link.springer.com/chapter/10.1007/978-3-031-16452-1_3))
-F Bai, X Xing, Y Shen, __H Ma__, MQH Meng 
+F Bai, X Xing, Y Shen, __H Ma__, MQH Meng  
 2022 International Conference on Medical Image Computing and Computer-Assisted Intervention (MICAI 2022)
 
 ### A Nonuniform Sampling Strategy for Path Planning Using Heuristic-based Certificate Set ([paper](https://ieeexplore.ieee.org/abstract/document/9739494))
