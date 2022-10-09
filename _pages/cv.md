@@ -22,12 +22,12 @@ Autonomous Driving System (ADS), Navigation and Positioning Development Departme
 
 Teaching
 ======
-* __Teaching Assistant__: CUHK ENGG1130E, Multivariable Calculus for Engineers, 2021-2022 term 2
-* __Teaching Assistant__: CUHK ELEG4701, Intelligent Interactive Robot Practice, 2021-2022 term 1
-* __Teaching Assistant__: CUHK ENGG1130E, Multivariable Calculus for Engineers, 2020-2021 term 2
-* __Teaching Assistant__: CUHK ELEG4701, Intelligent Interactive Robot Practice, 2020-2021 term 1
-* __Teaching Assistant__: CUHK ENGG1120ACE, Linear Algebra for Engineers, 2019-2020 term 2
-* __Teaching Assistant__: CUHK ELEG4701, Intelligent Interactive Robot Practice, 2019-2020 term 1
+* __Tutor__: CUHK ENGG1130E, Multivariable Calculus for Engineers, 2021-2022 term 2
+* __Tutor__: CUHK ELEG4701, Intelligent Interactive Robot Practice, 2021-2022 term 1
+* __Tutor__: CUHK ENGG1130E, Multivariable Calculus for Engineers, 2020-2021 term 2
+* __Tutor__: CUHK ELEG4701, Intelligent Interactive Robot Practice, 2020-2021 term 1
+* __Tutor__: CUHK ENGG1120ACE, Linear Algebra for Engineers, 2019-2020 term 2
+* __Tutor__: CUHK ELEG4701, Intelligent Interactive Robot Practice, 2019-2020 term 1
 
   
 Services
@@ -36,3 +36,4 @@ Services
 * Session chair of ICRA2021.
 * Reviewer of Journal of Intelligent & Robotic Systems.
 * Reviewer of IET Cyber-Systems and Robotics.
+* Reviewer of Biomimetic Intelligent and Robotics.
