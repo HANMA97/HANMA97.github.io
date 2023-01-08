@@ -37,3 +37,4 @@ Services
 * Reviewer of Journal of Intelligent & Robotic Systems.
 * Reviewer of IET Cyber-Systems and Robotics.
 * Reviewer of Biomimetic Intelligent and Robotics.
+* Reviewer of Robotica.
