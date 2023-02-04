@@ -26,7 +26,7 @@ C Li, F Meng, __H Ma__, J Wang, MQH Meng
 ## Journal Papers
 ------
 ### NR-RRT: Neural Risk-Aware Near-Optimal Path Planning in Uncertain Nonconvex Environments ([paper](https://arxiv.org/abs/2205.06951))
-F Meng, L Chen, __H Ma__, J Wang, MQH Meng
+F Meng, L Chen, __H Ma__, J Wang, MQH Meng  
 2022 IEEE Transactions on Automation Science and Engineering
 
 ### Enhance Connectivity of Promising Regions for Sampling-based Path Planning ([paper](https://ieeexplore.ieee.org/document/9834265))
