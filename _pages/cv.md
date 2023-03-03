@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in Tsinghua University, Beijing, China, 2019
+* B.S. in Tsinghua University, Beijing, China, 2015-2019
   * __Major__: Measurement,Control Technology and Instruments, the Department of Precision Instrument
   * __Minor__: Computer Technology and Application, the Department of Computer Science and Technology
-* Ph.D. in the Department of Electronic Engineering, The Chinese University of Hong Kong, Hong Kong SAR, 2023(expected)
+* Ph.D. in the Department of Electronic Engineering, The Chinese University of Hong Kong, Hong Kong SAR, 2019-now
 
 Intern
 ======
