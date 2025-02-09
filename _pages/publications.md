@@ -14,17 +14,16 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %} -->
-
-## Preprint
+## Journal Papers
 ------
 ### BiAIT*: Symmetrical Bidirectional Optimal Path Planning with Adaptive Heuristic ([paper](https://arxiv.org/abs/2205.06940))
 C Li, __H Ma__, P Xu, J Wang, MQH Meng
+2023 IEEE Transactions on Automation Science and Engineering
 
 ### Relevant Region Sampling Strategy with Adaptive Heuristic Estimation for Asymptotically Optimal Motion Planning ([paper](https://arxiv.org/abs/2111.00383))
 C Li, F Meng, __H Ma__, J Wang, MQH Meng
+2023 Biomimetic Intelligence and Robotics
 
-## Journal Papers
-------
 ### NR-RRT: Neural Risk-Aware Near-Optimal Path Planning in Uncertain Nonconvex Environments ([paper](https://arxiv.org/abs/2205.06951))
 F Meng, L Chen, __H Ma__, J Wang, MQH Meng  
 2022 IEEE Transactions on Automation Science and Engineering
@@ -55,6 +54,10 @@ X Sun, __H Ma__, Y Sun, M Liu
 
 ## Conference Papers
 ------
+### Bidirectional Search Strategy for Incremental Search-based Path Planning ([paper](https://ieeexplore.ieee.org/abstract/document/10342039))
+C Li, __H Ma__, J Wang, MQH Meng
+2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2023)
+
 ### Discrepancy-Based Active Learning for Weakly Supervised Bleeding Segmentation in Wireless Capsule Endoscopy Images ([paper](https://link.springer.com/chapter/10.1007/978-3-031-16452-1_3))
 F Bai, X Xing, Y Shen, __H Ma__, MQH Meng  
 2022 International Conference on Medical Image Computing and Computer-Assisted Intervention (MICAI 2022)
